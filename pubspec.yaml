@@ -19,4 +19,4 @@ flutter:
   plugin:
     platforms:
       ios:
-        pluginClass: AppTrackingTransparencyPlugin
+        pluginClass: SwiftAppTrackingTransparencyPlugin
